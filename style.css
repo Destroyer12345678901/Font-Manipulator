@@ -1,0 +1,15 @@
+#fontmanipulationwebapplication{
+    color: yellow;
+}
+body{
+    text-align: center;
+  font-family: Gill Sans;
+}
+canvas{
+    border-color: yellow;
+    padding: 5px;
+    box-shadow: yellow;
+}
+.copy_right_footer{
+    position: bottom;
+}
